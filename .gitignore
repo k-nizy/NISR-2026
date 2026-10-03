@@ -1,0 +1,22 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Env/secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Data (keep repo light)
+data/*.csv
+data/*.xlsx
+data/*.parquet
+!data/.gitkeep
+
+# Notebooks
+.ipynb_checkpoints/
