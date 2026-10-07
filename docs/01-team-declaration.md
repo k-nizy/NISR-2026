@@ -4,8 +4,8 @@
 
 | Role | Name | Cohort | Citizenship | Email | Phone | Gender | Department |
 |------|------|--------|-------------|-------|-------|--------|------------|
-| Team leader | Kevin Nizeyimana | 2024 | Rwandan 🇷🇼 | kevin.nizeyimana@alu.edu | +250 788 123 456 | Male | Data Science |
-| Member 2 | Laura | Sept 2024 | Rwandan 🇷🇼 | laura@alu.edu | +250 789 987 654 | Female | Data Science |
+| Team leader | Kevin Nizeyimana | 2024 | Rwandan 🇷🇼 | k.nizeyimana@alustudent.com | +250 795 052 843 | Male | Data Science |
+| Member 2 | Laura | Sept 2024 | Rwandan 🇷🇼 | l.kwizera1@alustudent.com | +250 789 009 924 | Female | Data Science |
 
 ### Team rules check
 
